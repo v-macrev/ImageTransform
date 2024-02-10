@@ -2,3 +2,4 @@
 * text=auto
 
 Makefile linguist-vendored
+*.mk linguist-vendored
