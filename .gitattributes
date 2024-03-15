@@ -3,3 +3,4 @@
 
 Makefile linguist-vendored
 *.mk linguist-vendored
+uiuc/* linguist-vendored
